@@ -1,5 +1,3 @@
 # socketmethod
-This socket programming example will show you how to connect multiple clients to a server using python 3 sockets. 
-It covers how to send messages from clients to server and from server to clients. I will also show you how to host your socket server locally or
-globally across the internet so anyone can connect. 
-This uses the python 3 socket and threading module. 
+This Python 3 sockets tutorial for connecting numerous clients to a server will demonstrate how to do so.
+It covers both client-to-server and server-to-client message transmission. Additionally, I'll demonstrate how to host your socket server either locally or internationally over the internet so that anyone may join. The socket and threading module from Python 3 is used in this.
